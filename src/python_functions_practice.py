@@ -8,4 +8,7 @@ def add(num1, num2):
 def subtract(num1, num2):
     subtract_result = 10 - 5
     return subtract_result
-    
+
+def multiply(num1, num2):
+    multiply_result = 4 * 2
+    return multiply_result
