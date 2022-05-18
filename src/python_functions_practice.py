@@ -16,4 +16,8 @@ def multiply(num1, num2):
 def divide(num1, num2):
     divide_result = 10 / 2
     return divide_result
-    
+
+def length_of_string(test_string):
+    string_length = len(test_string)
+    test_string = "A string of length 21"
+    return string_length
