@@ -27,4 +27,7 @@ def join_string(string_1, string_2):
     string_1 = "Mary had a little lamb, "
     string_2 = "its fleece was white as snow"
     return joined_string
-    
+
+def add_string_as_number(num1, num2):
+    add_result =  1 + 2
+    return add_result
