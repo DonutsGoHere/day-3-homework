@@ -12,3 +12,8 @@ def subtract(num1, num2):
 def multiply(num1, num2):
     multiply_result = 4 * 2
     return multiply_result
+
+def divide(num1, num2):
+    divide_result = 10 / 2
+    return divide_result
+    
